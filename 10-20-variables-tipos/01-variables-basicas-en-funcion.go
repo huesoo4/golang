@@ -6,7 +6,7 @@ func main() {
 	nombre := "Jose Manuel"
 	edad := 25
 	altura := 1.70
-	estudiando := true
+	estudiando := false
 
 	fmt.Println("Nombre:", nombre)
 	fmt.Println("Edad:", edad)
