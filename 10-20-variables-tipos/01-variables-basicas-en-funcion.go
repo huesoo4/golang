@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("Nombre:", nombre)
 	fmt.Println("Edad:", edad)
 	fmt.Println("Altura:", altura)
-	if estudiando {
+	if estudiando == true {
 		fmt.Println("Estudiando: Sí")
 	} else {
 		fmt.Println("Estuandianto: No")
